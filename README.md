@@ -3,6 +3,7 @@ Website is made for online store that sells Washing Machines using only Html and
 
 URL: https://srmbackisdeveloper.github.io/washing-machine/
 
+
 Some of screenshots:
 
 <img alt="alt" src="https://github.com/srmbackisdeveloper/washing-machine/blob/main/screenshots/screen1.JPG" >
